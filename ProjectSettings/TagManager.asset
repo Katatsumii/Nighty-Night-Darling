@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Doors
+  - House
+  - Spawner
+  - Enemy
+  - Weapon
+  - Clown
+  - Blue Baloon
+  - Red Baloon
+  - Yellow Baloon
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Ground
+  - Enemies
+  - PlayerCollisionOnly
+  - Furniture
+  - Weapon
+  - Dog
+  - Cat
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player and Enemies
+    uniqueID: 3571105829
+    locked: 0
